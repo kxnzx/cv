@@ -1,5 +1,5 @@
 # Mijn Naam
-Frontend Developer :woman_technologist: & fotografie enthousiast :camera_flash:
+Frontend Developer 
 
 [<img src="github-mark.png" width="50">](https://github.com/kxnzx)
 &ensp;
