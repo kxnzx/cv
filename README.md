@@ -1,5 +1,5 @@
 # Mijn Naam || Frontend Developer 
-[<img src="github_logo.png" width="50">](https://github.com/kxnzx)&ensp;[<img src="portfolio_icon.png" width="50">](https://www.frontendmentor.io/profile/kxnzx)
+[<img src="github_logo.png" width="50">](https://github.com/kxnzx/ "Mijn Github")&ensp;[<img src="portfolio_icon.png" width="50">](https://www.frontendmentor.io/profile/kxnzx/ "Mijn Portfolio")
 
 Ik ben een detail-oriented professional met integriteit. Mijn passie ligt in het scheppen van duidelijkheid in een wereld van toenemende complexiteit. In een team ben ik diegene die scherp observeert en doorvraagt waar anderen stoppen. Ook deel ik onbevreesd mijn inzichten wat kan bijdragen tot diepere en effectievere oplossingen. In de toekomst zie ik mezelf excelleren in een specialisatie binnen web development.
 
