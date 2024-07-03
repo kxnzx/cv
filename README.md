@@ -38,3 +38,8 @@ HTML5 || SCSS3 || JavaScript
 
 Visual Studio Code 1.90.2 || Github || GIT
 
+## Vaktechnische Opleidingen
+
+* PSM I || scrum.org
+* Leren programmeren voor Beginners met JavaScript || soofos.nl
+
