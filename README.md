@@ -1,5 +1,5 @@
 # Mijn Naam
-Frontend Developer & hobby fotograaf based in :!netherlands:
+Frontend Developer & hobby fotografie enthousiast :camera_flash:
 
 [<img src="github-mark.png" width="50">](https://github.com/kxnzx)
 &ensp;
