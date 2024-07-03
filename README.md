@@ -1,5 +1,4 @@
-# Mijn Naam
-Frontend Developer 
+# Mijn Naam || Frontend Developer 
 
 [<img src="github-mark.png" width="50">](https://github.com/kxnzx)
 &ensp;
