@@ -43,5 +43,6 @@ Visual Studio Code 1.90.2 || Github || GIT
 ## Talen
 
 Nederlands (moedertaal)
+
 Engels (uitstekend)
 
