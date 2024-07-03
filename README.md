@@ -39,3 +39,9 @@ Visual Studio Code 1.90.2 || Github || GIT
 * PSM I @ scrum.org
 * Leren programmeren voor Beginners met JavaScript @ soofos.nl
 
+
+## Talen
+
+Nederlands (moedertaal)
+Engels (uitstekend)
+
