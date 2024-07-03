@@ -1,7 +1,8 @@
 # Mijn Naam
 Frontend Developer 
 
-[Github](https://github.com/kxnzx)
+
+[<img src="github-mark.png" width="50">](https://github.com/kxnzx)
 [Portfolio](https://www.frontendmentor.io/profile/kxnzx)
 
 
