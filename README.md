@@ -5,7 +5,7 @@
 [<img src="portfolio_icon.png" width="45">](https://www.frontendmentor.io/profile/kxnzx)
 
 ## Werkervaring
-Frontend Developer || AZL || Feb 2024 - heden
+### Frontend Developer || AZL || Feb 2024 - heden
 
 Ik maak deel uit van een Scrum team dat een B2B applicatie aan het opzetten is voor pensioenuitvoerder AZL. 
 
@@ -21,4 +21,21 @@ HTML5 || SCSS3 || Bootstrap5 || Angular 17.3.8
 **Tools** 
 
 Visual Studio Code 1.90.2 || Azure DevOps || GIT
+
+### Frontend Developer || Frontend Mentor || Mei 2021 - April 2024
+
+Webdesigns omgezet in code met de daarbij behorende functionaliteiten. 
+
+* Programmeren in de front-end
+* Zelfstandige studie en nieuwe vaardigheden leren 
+* Problemen identificeren en oplossingen vinden
+* Ondersteuning bieden aan andere leden van de community 
+
+**Programmeertalen** 
+
+HTML5 || SCSS3 || JavaScript 
+
+**Tools** 
+
+Visual Studio Code 1.90.2 || Github || GIT
 
