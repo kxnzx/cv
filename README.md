@@ -13,11 +13,9 @@ Ik maak deel uit van een Scrum team dat een B2B applicatie aan het opzetten is v
 * Zoeken naar nieuwe oplossingen en best practice scenario's om de kwaliteit van het product te verbeteren
 * Deelname aan het ontwerp en de structurering van het project
 
-**Programmeertalen** 
+**Programmeertalen & Tools** 
 
 HTML5 || SCSS3 || Bootstrap5 || Angular 17.3.8 
-
-**Tools** 
 
 Visual Studio Code 1.90.2 || Azure DevOps || GIT
 
@@ -30,11 +28,9 @@ Webdesigns omgezet in code met de daarbij behorende functionaliteiten.
 * Problemen identificeren en oplossingen vinden
 * Ondersteuning bieden aan andere leden van de community 
 
-**Programmeertalen** 
+**Programmeertalen & Tools** 
 
 HTML5 || SCSS3 || JavaScript 
-
-**Tools** 
 
 Visual Studio Code 1.90.2 || Github || GIT
 
