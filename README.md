@@ -28,6 +28,12 @@ Webdesigns omgezet in code met de daarbij behorende functionaliteiten.
 * Problemen geïdentificeerd en oplossingen gevonden
 * Ondersteuning geboden aan leden van de community
 
+**Programmeertalen & Tools** 
+
+HTML5 || SCSS3 || JavaScript 
+
+Visual Studio Code 1.90.2 || Github || GIT
+
 ### Technical Support Medewerker || Vodafone - Rabobank - ING || Feb 2007 - Maart 2013
 
 Tussen februari 2007 en maart 2013 heb ik bij diverse gerenommeerde bedrijven gewerkt waar ik klanten telefonisch en via email technische ondersteuning heb geboden.  
@@ -36,12 +42,6 @@ Tussen februari 2007 en maart 2013 heb ik bij diverse gerenommeerde bedrijven ge
 * Zelfstanding oplossingen gezocht met behulp van intranet 
 * Instructies geboden om klanttevredenheid te waarborgen
 * Wet- en regelgeving van het bankwezen gehandhaafd
-
-**Programmeertalen & Tools** 
-
-HTML5 || SCSS3 || JavaScript 
-
-Visual Studio Code 1.90.2 || Github || GIT
 
 ## Vaktechnische Opleidingen
 
