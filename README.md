@@ -24,7 +24,7 @@ Visual Studio Code 1.90.2 || Azure DevOps || GIT
 Webdesigns omgezet in code met de daarbij behorende functionaliteiten. 
 
 * Geprogrammeerd in de front-end
-* Zelfstandige studie en nieuwe vaardigheden geleerd 
+* Nieuwe vaardigheden geleerd doormiddel van zelfstandige studie
 * Problemen geïdentificeerd en oplossingen gevonden
 * Ondersteuning geboden aan leden van de community
 
