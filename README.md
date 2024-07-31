@@ -33,7 +33,7 @@ Webdesigns omgezet in code met de daarbij behorende functionaliteiten.
 Tussen februari 2007 en maart 2013 heb ik bij diverse gerenommeerde bedrijven gewerkt waar ik klanten telefonisch en via email technische ondersteuning heb geboden.  
 
 * Storingen geanalyseerd en geregistreerd
-* Zelfstanding oplossingen gezocht met behulp van intranet van het bedrijf 
+* Zelfstanding oplossingen gezocht met behulp van intranet 
 * Instructies geboden om klanttevredenheid te waarborgen
 * Wet- en regelgeving van het bankwezen gehandhaafd
 
