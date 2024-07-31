@@ -23,10 +23,19 @@ Visual Studio Code 1.90.2 || Azure DevOps || GIT
 
 Webdesigns omgezet in code met de daarbij behorende functionaliteiten. 
 
-* Programmeren in de front-end
-* Zelfstandige studie en nieuwe vaardigheden leren 
-* Problemen identificeren en oplossingen vinden
-* Ondersteuning bieden aan andere leden van de community 
+* Geprogrammeerd in de front-end
+* Zelfstandige studie en nieuwe vaardigheden geleerd 
+* Problemen geïdentificeerd en oplossingen gevonden
+* Ondersteuning geboden aan leden van de community
+
+### Technical Support Medewerker || Vodafone - Rabobank - ING || Feb 2007 - Maart 2013
+
+Tussen februari 2007 en maart 2013 heb ik bij diverse gerenommeerde bedrijven gewerkt waar ik klanten telefonisch en via email technische ondersteuning heb geboden.  
+
+* Storingen geanalyseerd en geregistreerd
+* Zelfstanding oplossingen gezocht met behulp van intranet van het bedrijf 
+* Instructies geboden om klanttevredenheid te waarborgen
+* Wet- en regelgeving van het bankwezen gehandhaafd
 
 **Programmeertalen & Tools** 
 
